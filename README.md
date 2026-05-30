@@ -4,7 +4,7 @@
 ![Object Detection](https://img.shields.io/badge/Object-Detection-orange?style=for-the-badge)
 ![MIT App Inventor](https://img.shields.io/badge/MIT%20App%20Inventor-Platform-A31F34?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-blueviolet?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-In%20Development-yellow?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 ---
 
 ## 📌 Overview
